@@ -1,0 +1,322 @@
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\LibreriaApollo.exe.config
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\LibreriaApollo.exe
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\LibreriaApollo.pdb
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csprojAssemblyReference.cache
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.frmMain.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Properties.Resources.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.GenerateResource.cache
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CoreCompileInputs.cache
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.exe
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.pdb
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.frmLogin.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmVentas.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmRegistrarVenta.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEmpleado.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmProductos.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmMayoristas.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\bin\Debug\LibreriaApollo.exe.config
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\bin\Debug\LibreriaApollo.exe
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\bin\Debug\LibreriaApollo.pdb
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csprojAssemblyReference.cache
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.frmMain.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.frmLogin.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmMayoristas.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmProductos.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmRegistrarVenta.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEmpleado.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmVentas.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Properties.Resources.resources
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.GenerateResource.cache
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CoreCompileInputs.cache
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.exe
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.pdb
+C:\Users\54351\Desktop\3er Año\PAV\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmConsultarVentas.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmConsultarVentas.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmDetalleVenta.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\EnvDTE.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\stdole.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CopyComplete
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmInformes.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeListadoProductos.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\RdlCompile.cache
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\RdlCompile.compiled
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosMasVendidos.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosMenosVendidos.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosFaltantes.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeMensualVentas.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeDiarioGanancias.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeEmpleados.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristas.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristasMenor.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristasMayor.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeTotalVentasPorCategorias.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEstadisticas.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaProductosPorCategoria.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaCantidadVentasMensuales.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaTiposPagosAnuales.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaClientesPorLocalidades.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaVentasPorLocalidades.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaVentasPorEmpleado.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaGananciasAnuales.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaGananciaApilada.resources
+C:\Users\lonis\source\repos\LibreriaApollo\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmOpciones.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\LibreriaApollo.exe.config
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\LibreriaApollo.exe
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\LibreriaApollo.pdb
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\EnvDTE.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\stdole.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csprojAssemblyReference.cache
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaCantidadVentasMensuales.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaClientesPorLocalidades.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaGananciaApilada.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaGananciasAnuales.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaProductosPorCategoria.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaTiposPagosAnuales.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaVentasPorEmpleado.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaVentasPorLocalidades.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.frmMain.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmConsultarVentas.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmDetalleVenta.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEstadisticas.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmInformes.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.frmLogin.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmMayoristas.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmOpciones.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmProductos.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmRegistrarVenta.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEmpleado.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmVentas.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristas.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristasMayor.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristasMenor.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeDiarioGanancias.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeEmpleados.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeListadoProductos.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeMensualVentas.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosFaltantes.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosMasVendidos.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosMenosVendidos.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeTotalVentasPorCategorias.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Properties.Resources.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.GenerateResource.cache
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CopyComplete
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.exe
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.pdb
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\RdlCompile.cache
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\RdlCompile.compiled
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaProductosMasVendidos.resources
+C:\Users\Federico\Desktop\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaAntiguedadEmpleados.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\LibreriaApollo.exe.config
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\LibreriaApollo.exe
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\LibreriaApollo.pdb
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\EnvDTE.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\stdole.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csprojAssemblyReference.cache
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaAntiguedadEmpleados.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaCantidadVentasMensuales.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaClientesPorLocalidades.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaGananciaApilada.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaGananciasAnuales.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaProductosMasVendidos.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaProductosPorCategoria.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaTiposPagosAnuales.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaVentasPorEmpleado.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Estadisticas.estadisticaVentasPorLocalidades.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.frmMain.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmConsultarVentas.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmDetalleVenta.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEstadisticas.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmInformes.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.frmLogin.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmMayoristas.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmOpciones.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmProductos.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmRegistrarVenta.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmEmpleado.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.frmVentas.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristas.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristasMayor.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeClientesMayoristasMenor.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeDiarioGanancias.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeEmpleados.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeListadoProductos.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeMensualVentas.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosFaltantes.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosMasVendidos.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeProductosMenosVendidos.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Interfaces.Informes.InformeTotalVentasPorCategorias.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.Properties.Resources.resources
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.GenerateResource.cache
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.csproj.CopyComplete
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.exe
+C:\Users\Federico\Desktop\UTN\PAV I\Apollo 2019\LibreriaApollo\obj\Debug\LibreriaApollo.pdb
