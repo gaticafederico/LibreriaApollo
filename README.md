@@ -6,7 +6,7 @@ Apollo es un proyecto hecho en C# para la materia PAV1 de la carrera Ing en Sist
 
 ### Desde el codigo fuente
 
-1. Descargar el master haciendo click [acá](https://github.com/gaticafederico/LibreriaApollo/archive/master.zip) o clonar el proyecto usando ```git clone https://github.com/gaticafederico/CarritoLibreria```
+1. Descargar el master haciendo click [acá](https://github.com/gaticafederico/LibreriaApollo/archive/master.zip) o clonar el proyecto usando ```git clone https://github.com/gaticafederico/LibreriaApollo```
 2. Crear una carpeta llamada ```LibreriaApollo``` en ```C:\Users\NOMBREDEMIPC\source\repos```
 3. Extraer el master en la carpeta ```LibreriaApollo``` de forma que quede ```LibreriaApollo\LibreriaApollo``` y ```LibreriaApollo\packages```
 4. Crear una base de datos llamada apollo2
